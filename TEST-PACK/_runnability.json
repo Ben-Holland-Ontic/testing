@@ -1,0 +1,467 @@
+{
+ "stage-14-sidecar-review-coco\\audit_review_pipeline.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\build_ocr_fixtures.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-09-data-cleaning\\capture_cleaning_inputs.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-04-rectangle-detection\\compare_legacy_vs_current_rect_stages.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\compare_table_assembly.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\debug_table_regressions_b0f0dc.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-14-sidecar-review-coco\\diagnose_review_rasters.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-09-data-cleaning\\dump_candidates.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-13-session-persistence\\extract_parity_digest.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-04-rectangle-detection\\generate_synthetic_rline_pages.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\hard_crop_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-04-rectangle-detection\\isolate_thin_text_rects.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-07-region-ocr\\line_region_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\line_vote_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\list_batch_parity_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-09-data-cleaning\\matrix_consolidation_diagnostic.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\onnx_parity_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\onnx_realpage_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\ort_gpu_guard.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-02-preprocessing\\preprocess_ab_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-07-region-ocr\\space_recovery_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\supporting_latency_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\test_dll_preload_order.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-03-frame-detection\\test_frame_detection_refactor.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\test_gpu_dll_conflict.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-09-data-cleaning\\test_grid_index_consistency.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-13-session-persistence\\test_memory_refactor.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\test_model_dirs.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-01-ingestion\\test_parallel_render.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\test_phase0_routing.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\test_phase1_adapters.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\test_phase2_credibility.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\test_phase3_voting.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\test_phase4_cascade.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-01-ingestion\\test_pipeline.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\test_pipeline_cpu_mode.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\test_pipeline_production_ready.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\test_rectangle_detection_regression.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-07-region-ocr\\test_region_ocr_rhythm_and_doctr_merge.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\test_single_query_fix.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\test_spacing_donor.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-10-relationship-resolution\\test_table_assembly_regression.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\test_torch_cuda_import.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-14-sidecar-review-coco\\test_verified_coco.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\test_worker_mkldnn_fix.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\trace_drawing_number.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\unmatched_section_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\vendored_parity_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-15-frontend-human-review\\verify_fresh_install.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\vote_simulation_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "cross-stage\\ocr_baseline_compare.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "_harness\\_harness.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "_harness\\run_all.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "_harness\\run_monitor.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-04-rectangle-detection\\diagnose_rectangle_image.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\compare_cluster_edge_ab.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\test_crop_padding.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\check_torch_sm120.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\verify_torch_sm120.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-08-orchestration-gpu\\test_imports.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-09-data-cleaning\\matrix_smoke_two_pngs.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\table_batch_diagnostic.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\diag_table.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\diag_assembled.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\diag_assembled2.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\diag_01orig.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-01-ingestion\\test_pipeline_integration.py": {
+  "verdict": "STALE",
+  "detail": "unresolved: input_processing, reportlab.lib.pagesizes, reportlab.pdfgen",
+  "source": "OLD"
+ },
+ "stage-03-frame-detection\\inspect_frame_candidates.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-03-frame-detection\\run_frame_detection_visuals.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-03-frame-detection\\run_frame_inset_visuals.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\analyze_binarize_line_metrics.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\debug_rectangle_page_stages.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\visualize_synthetic_rline_pages.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\dump_cluster_ocr_crops.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-09-data-cleaning\\matrix_header_subheader_viz.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-09-data-cleaning\\regenerate_consolidation_overlays.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-09-data-cleaning\\generate_desktop_data_artifacts.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\eval_right_column_empty_cells.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-10-relationship-resolution\\rank_material_adjacent_variants.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_lifelike.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_lifelike_hgap_tuned.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_noisy_hard.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_stress.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_stress_seed211.json": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "OLD"
+ },
+ "stage-05-cluster-ocr-cascade\\arbitration_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\handwriting_ab_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\handwriting_label_census.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-05-cluster-ocr-cascade\\substitution_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\capture_native_crash.ps1": {
+  "verdict": "UNPARSEABLE",
+  "detail": "unterminated string literal (detected at line 3) (<unknown>,",
+  "source": "CURRENT"
+ },
+ "stage-08-orchestration-gpu\\phi_smoke_probe.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-09-data-cleaning\\llm_region_battery.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ },
+ "stage-09-data-cleaning\\canonical_view.py": {
+  "verdict": "LIVE",
+  "detail": "",
+  "source": "CURRENT"
+ }
+}

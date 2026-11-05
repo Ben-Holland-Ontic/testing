@@ -1,0 +1,599 @@
+[
+ {
+  "rel": "stage-14-sidecar-review-coco\\audit_review_pipeline.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\scripts\\audit_review_pipeline.py",
+  "bytes": 10547
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\build_ocr_fixtures.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\build_ocr_fixtures.py",
+  "bytes": 3916
+ },
+ {
+  "rel": "stage-09-data-cleaning\\capture_cleaning_inputs.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\capture_cleaning_inputs.py",
+  "bytes": 4903
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\compare_legacy_vs_current_rect_stages.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\compare_legacy_vs_current_rect_stages.py",
+  "bytes": 11803
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\compare_table_assembly.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\compare_table_assembly.py",
+  "bytes": 10824
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\debug_table_regressions_b0f0dc.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\debug_table_regressions_b0f0dc.py",
+  "bytes": 6239
+ },
+ {
+  "rel": "stage-14-sidecar-review-coco\\diagnose_review_rasters.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\scripts\\diagnose_review_rasters.py",
+  "bytes": 6140
+ },
+ {
+  "rel": "stage-09-data-cleaning\\dump_candidates.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\dump_candidates.py",
+  "bytes": 5707
+ },
+ {
+  "rel": "stage-13-session-persistence\\extract_parity_digest.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\extract_parity_digest.py",
+  "bytes": 8673
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\generate_synthetic_rline_pages.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\generate_synthetic_rline_pages.py",
+  "bytes": 20563
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\hard_crop_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\hard_crop_probe.py",
+  "bytes": 10274
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\isolate_thin_text_rects.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\isolate_thin_text_rects.py",
+  "bytes": 11701
+ },
+ {
+  "rel": "stage-07-region-ocr\\line_region_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\line_region_probe.py",
+  "bytes": 5602
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\line_vote_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\line_vote_probe.py",
+  "bytes": 6780
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\list_batch_parity_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\list_batch_parity_probe.py",
+  "bytes": 2580
+ },
+ {
+  "rel": "stage-09-data-cleaning\\matrix_consolidation_diagnostic.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\matrix_consolidation_diagnostic.py",
+  "bytes": 24295
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\onnx_parity_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\onnx_parity_probe.py",
+  "bytes": 9343
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\onnx_realpage_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\onnx_realpage_probe.py",
+  "bytes": 11656
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\ort_gpu_guard.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\ort_gpu_guard.py",
+  "bytes": 7115
+ },
+ {
+  "rel": "stage-02-preprocessing\\preprocess_ab_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\preprocess_ab_probe.py",
+  "bytes": 7022
+ },
+ {
+  "rel": "stage-07-region-ocr\\space_recovery_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\space_recovery_probe.py",
+  "bytes": 9940
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\supporting_latency_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\supporting_latency_probe.py",
+  "bytes": 7396
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_dll_preload_order.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_dll_preload_order.py",
+  "bytes": 8302
+ },
+ {
+  "rel": "stage-03-frame-detection\\test_frame_detection_refactor.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_frame_detection_refactor.py",
+  "bytes": 2443
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_gpu_dll_conflict.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_gpu_dll_conflict.py",
+  "bytes": 8465
+ },
+ {
+  "rel": "stage-09-data-cleaning\\test_grid_index_consistency.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_grid_index_consistency.py",
+  "bytes": 3875
+ },
+ {
+  "rel": "stage-13-session-persistence\\test_memory_refactor.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_memory_refactor.py",
+  "bytes": 11240
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_model_dirs.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_model_dirs.py",
+  "bytes": 4805
+ },
+ {
+  "rel": "stage-01-ingestion\\test_parallel_render.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\test_parallel_render.py",
+  "bytes": 12048
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_phase0_routing.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_phase0_routing.py",
+  "bytes": 10021
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_phase1_adapters.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_phase1_adapters.py",
+  "bytes": 15837
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_phase2_credibility.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_phase2_credibility.py",
+  "bytes": 15055
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_phase3_voting.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_phase3_voting.py",
+  "bytes": 20965
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_phase4_cascade.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_phase4_cascade.py",
+  "bytes": 22867
+ },
+ {
+  "rel": "stage-01-ingestion\\test_pipeline.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\oculi-runtime-1.2.7-gpu\\bk-main\\test_pipeline.py",
+  "bytes": 33710
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_pipeline_cpu_mode.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_pipeline_cpu_mode.py",
+  "bytes": 4130
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_pipeline_production_ready.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_pipeline_production_ready.py",
+  "bytes": 4463
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\test_rectangle_detection_regression.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_rectangle_detection_regression.py",
+  "bytes": 2008
+ },
+ {
+  "rel": "stage-07-region-ocr\\test_region_ocr_rhythm_and_doctr_merge.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_region_ocr_rhythm_and_doctr_merge.py",
+  "bytes": 2903
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\test_single_query_fix.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\test_single_query_fix.py",
+  "bytes": 5530
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_spacing_donor.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_spacing_donor.py",
+  "bytes": 8489
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\test_table_assembly_regression.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_table_assembly_regression.py",
+  "bytes": 10692
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_torch_cuda_import.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_torch_cuda_import.py",
+  "bytes": 5977
+ },
+ {
+  "rel": "stage-14-sidecar-review-coco\\test_verified_coco.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\test_verified_coco.py",
+  "bytes": 9106
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_worker_mkldnn_fix.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_worker_mkldnn_fix.py",
+  "bytes": 5292
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\trace_drawing_number.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\trace_drawing_number.py",
+  "bytes": 4215
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\unmatched_section_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\unmatched_section_probe.py",
+  "bytes": 6384
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\vendored_parity_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\vendored_parity_probe.py",
+  "bytes": 6071
+ },
+ {
+  "rel": "stage-15-frontend-human-review\\verify_fresh_install.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\verify_fresh_install.py",
+  "bytes": 12715
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\vote_simulation_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\vote_simulation_probe.py",
+  "bytes": 6228
+ },
+ {
+  "rel": "cross-stage\\ocr_baseline_compare.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\ocr_baseline_compare.py",
+  "bytes": 13145
+ },
+ {
+  "rel": "_harness\\_harness.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\_harness.py",
+  "bytes": 2550
+ },
+ {
+  "rel": "_harness\\run_all.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\tests\\run_all.py",
+  "bytes": 1182
+ },
+ {
+  "rel": "_harness\\run_monitor.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\run_monitor.py",
+  "bytes": 8434
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\diagnose_rectangle_image.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\diagnose_rectangle_image.py",
+  "bytes": 21796,
+  "why": "rectangle diagnostics; imports workers.rectangle_detection, which still exists"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\compare_cluster_edge_ab.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\compare_cluster_edge_ab.py",
+  "bytes": 3377,
+  "why": "cluster OCR A/B on CLUSTER_OCR_EDGE_SUPPRESS, still present in workers/cluster_ocr.py"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\test_crop_padding.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\test_crop_padding.py",
+  "bytes": 4833,
+  "why": "cell-crop margin / engine-aware padding, Phase 3 of the cascade"
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\check_torch_sm120.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\check_torch_sm120.py",
+  "bytes": 3164,
+  "why": "torch wheel Blackwell sm_120 support check"
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\verify_torch_sm120.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\verify_torch_sm120.py",
+  "bytes": 1925,
+  "why": "torch wheel Blackwell sm_120 verification"
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\test_imports.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\blackwell_wheels\\test_imports.py",
+  "bytes": 1795,
+  "why": "Blackwell dependency-tree import test; torch/torchvision/numpy, no Paddle"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\matrix_smoke_two_pngs.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\matrix_smoke_two_pngs.py",
+  "bytes": 6098,
+  "why": "matrix extraction -> consolidation smoke; sits beside matrix_consolidation_diagnostic"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\table_batch_diagnostic.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\table_batch_diagnostic.py",
+  "bytes": 14327,
+  "why": "batch table consolidation/reading regression tracking"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\diag_table.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\diag_table.py",
+  "bytes": 5521,
+  "why": "table cell structure + resolved query values, Revision/Sheet regression"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\diag_assembled.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\diag_assembled.py",
+  "bytes": 1153,
+  "why": "assembled_records row structure for TABLE results"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\diag_assembled2.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\diag_assembled2.py",
+  "bytes": 1438,
+  "why": "assembled_records for 01_original and 1520"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\diag_01orig.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\diag_01orig.py",
+  "bytes": 1897,
+  "why": "full assembled_records for 01_original TABLE results"
+ },
+ {
+  "rel": "stage-01-ingestion\\test_pipeline_integration.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\test_pipeline_integration.py",
+  "bytes": 5171,
+  "why": "whole-pipeline integration run; same character as test_pipeline.py already here"
+ },
+ {
+  "rel": "stage-03-frame-detection\\inspect_frame_candidates.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\inspect_frame_candidates.py",
+  "bytes": 3858,
+  "why": "frame-candidate inspection; imports workers"
+ },
+ {
+  "rel": "stage-03-frame-detection\\run_frame_detection_visuals.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\run_frame_detection_visuals.py",
+  "bytes": 2579,
+  "why": "frame-detection visual overlays; imports workers"
+ },
+ {
+  "rel": "stage-03-frame-detection\\run_frame_inset_visuals.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\run_frame_inset_visuals.py",
+  "bytes": 3970,
+  "why": "frame-inset visual overlays; imports workers"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\analyze_binarize_line_metrics.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\analyze_binarize_line_metrics.py",
+  "bytes": 11666,
+  "why": "line structure measured on the same binary as workers/rectangle_detection"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\debug_rectangle_page_stages.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\debug_rectangle_page_stages.py",
+  "bytes": 6964,
+  "why": "single-page binarize checkpoints + segment counts, mirrors rectangle_detection"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\visualize_synthetic_rline_pages.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\visualize_synthetic_rline_pages.py",
+  "bytes": 17297,
+  "why": "renders the synthetic R-line fixtures; pairs with generate_synthetic_rline_pages"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\dump_cluster_ocr_crops.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\dump_cluster_ocr_crops.py",
+  "bytes": 3463,
+  "why": "exports cluster OCR crops; imports cluster_ocr + rectangle_detection, both live"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\matrix_header_subheader_viz.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\matrix_header_subheader_viz.py",
+  "bytes": 12802,
+  "why": "matrix role overlays (header/subheader/value/row anchor)"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\regenerate_consolidation_overlays.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\regenerate_consolidation_overlays.py",
+  "bytes": 5301,
+  "why": "extraction + cleaning only, then consolidated-table overlays and tables JSON"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\generate_desktop_data_artifacts.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\generate_desktop_data_artifacts.py",
+  "bytes": 6144,
+  "why": "consolidated-cell visualisations + extraction_results.json per image"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\eval_right_column_empty_cells.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\eval_right_column_empty_cells.py",
+  "bytes": 9962,
+  "why": "evaluation of right-column empty-cell reading; imports workers"
+ },
+ {
+  "rel": "stage-10-relationship-resolution\\rank_material_adjacent_variants.py",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tools\\rank_material_adjacent_variants.py",
+  "bytes": 1800,
+  "why": "ranks material-adjacency variants"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages.json",
+  "bytes": 225303,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_lifelike.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages_lifelike.json",
+  "bytes": 527254,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_lifelike_hgap_tuned.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages_lifelike_hgap_tuned.json",
+  "bytes": 700401,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_noisy_hard.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages_noisy_hard.json",
+  "bytes": 462382,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_stress.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages_stress.json",
+  "bytes": 985355,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-04-rectangle-detection\\fixtures\\synthetic_rline_pages_stress_seed211.json",
+  "tag": "OLD",
+  "src": "C:\\Users\\benja\\Downloads\\bk-main\\bk-main\\tests\\fixtures\\synthetic_rline_pages_stress_seed211.json",
+  "bytes": 1046203,
+  "why": "synthetic R-line page fixture spec"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\arbitration_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\arbitration_probe.py",
+  "bytes": 5214,
+  "why": "handwriting arbitration on real pages, through the shipped code path"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\handwriting_ab_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\handwriting_ab_probe.py",
+  "bytes": 6147,
+  "why": "A/B the crops the router sends to handwriting: 91-class vs 18,710-class model"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\handwriting_label_census.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\handwriting_label_census.py",
+  "bytes": 6313,
+  "why": "how often the pre-classifier routes a crop to the handwriting recogniser"
+ },
+ {
+  "rel": "stage-05-cluster-ocr-cascade\\substitution_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\substitution_probe.py",
+  "bytes": 5664,
+  "why": "substitution end-to-end through the patched cluster_ocr, explicitly with no paddle"
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\capture_native_crash.ps1",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\capture_native_crash.ps1",
+  "bytes": 6297,
+  "why": "native crash capture - the crash-isolation concern of this stage"
+ },
+ {
+  "rel": "stage-08-orchestration-gpu\\phi_smoke_probe.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\phi_smoke_probe.py",
+  "bytes": 8349,
+  "why": "does Phi-4-mini INT4 run on the validated onnxruntime"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\llm_region_battery.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\llm_region_battery.py",
+  "bytes": 3888,
+  "why": "classification battery against a local ONNX LLM"
+ },
+ {
+  "rel": "stage-09-data-cleaning\\canonical_view.py",
+  "tag": "CURRENT",
+  "src": "C:\\OCULI.pd1\\TESTING\\RESOURCES\\canonical_view.py",
+  "bytes": 8918,
+  "why": "HELPER, not a test: builds the canonical page view llm_region_battery consumes"
+ }
+]
