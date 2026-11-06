@@ -18,6 +18,25 @@ dict, which survives until page.metadata.clear().
 
 Output: ``<session_dir>/page_quality.parquet``, ~33 metric columns plus the identifiers and
 stratification keys needed to fit per-stratum distributions without joining another table.
+
+Input coverage, and the one deliberate omission
+-----------------------------------------------
+    .pdf                    measured, and carries scan_branch from the classifier
+    .jpg .jpeg .png .bmp    measured; no scan_branch, because images skip the branch
+    .tif .tiff .webp .gif   classifier by design. Stratify these on `source` instead.
+    .zip .tar               expanded upstream; contents are routed by their own extension
+    .docx .doc .docm        UNSUPPORTED_WORD_EXT - not ingested for OCR at all
+    .txt .csv               NOT measured, deliberately
+
+`.txt` and `.csv` do produce a raster - `_extract_txt_pages` renders the text to an image -
+so a hook there would "work". It is omitted on purpose: that raster is a synthetic,
+perfectly clean render of plain text, not a captured page. Those rows would land in the
+clean stratum, and because the clean floors are derived from that stratum's p97
+(`calibration.floors_from`), they would raise the floors and make genuine degradation read
+as less severe than it is. Collecting them would quietly bias every fit.
+
+If they are ever wanted, nothing needs rebuilding: every row already carries `source`, so
+they can be filtered at fit time rather than at capture time.
 """
 from __future__ import annotations
 
